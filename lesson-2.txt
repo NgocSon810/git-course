@@ -1,0 +1,10 @@
+Bai 1:
+git init : để git kiểm soát thư mục 
+git add <file-name> chuyển file chỉ định từ môi trường working sang môi trường staging
+git add . : chuyển tất cả các file hiện có trong môi trường working sang môi trường staging
+git commit -m'message' chuyển tất cả các file từ môi trường staging lên môi trường repository với ghi chú bên trong '' , bao gồm các type " chore : dùng cho sữa ít , chính tả ... ","feat: thêm một chức năng mới hoặc test case ","fix: sữa testcase"
+
+Bai 2:
+-Môi trường working : file2 , file 3
+-Môi trường staging : rỗng
+-Môi trường repository: file1
